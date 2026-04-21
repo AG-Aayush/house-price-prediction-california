@@ -69,7 +69,21 @@ def load_model():
     return model, scaler
 
 model, scaler = load_model()
-features      = scaler.feature_names_in_
+features = [
+    "longitude",
+    "latitude",
+    "housing_median_age",
+    "total_rooms",
+    "total_bedrooms",
+    "population",
+    "households",
+    "median_income",
+    "<1H OCEAN",
+    "INLAND",
+    "ISLAND",
+    "NEAR BAY",
+    "NEAR OCEAN"
+]
 
 # ── 4. Constants ───────────────────────────────────────────────────────────────
 OCEAN_OPTIONS            = ['<1H OCEAN', 'INLAND', 'ISLAND', 'NEAR BAY', 'NEAR OCEAN']
