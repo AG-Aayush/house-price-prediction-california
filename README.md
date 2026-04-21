@@ -55,9 +55,8 @@ To build a regression model that can accurately predict median house prices in C
 
 * Algorithm used: **Linear Regression**
 * Train-test split applied
-* Model evaluation using:
 
-The model was evaluated using:
+#### Model Evaluation Metrics:
 - R² Score
 - Root Mean Squared Error (RMSE)
 
@@ -87,7 +86,7 @@ These metrics help measure prediction accuracy and error distribution.
 
 ## Web Application
 
-A simple web interface is created using Python (Streamlit/Flask depending on implementation).
+A web interface is built using **Streamlit**, allowing users to input housing features and get real-time price predictions using the trained model.
 
 ### Features:
 
