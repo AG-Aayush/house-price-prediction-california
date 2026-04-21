@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction Web App (California Dataset)
+# House Price Prediction Web App (California Dataset)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a **Machine Learning-based House Price Prediction System** built using the California housing dataset. It predicts house prices based on multiple features such as income, location, population, and housing characteristics.
 
@@ -14,13 +14,13 @@ The project includes:
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To build a regression model that can accurately predict median house prices in California districts based on given input features.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Source: California Housing Dataset
 * Features include:
@@ -37,7 +37,7 @@ To build a regression model that can accurately predict median house prices in C
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Data Preprocessing
 
@@ -71,7 +71,7 @@ To build a regression model that can accurately predict median house prices in C
 
 ---
 
-## 📈 Results
+##  Results
 
 * The model provides reasonable predictions based on linear relationships in the dataset.
 * Visualization plots included for analysis:
@@ -82,7 +82,7 @@ To build a regression model that can accurately predict median house prices in C
 
 ---
 
-## 🌐 Web Application
+## Web Application
 
 A simple web interface is created using Python (Streamlit/Flask depending on implementation).
 
@@ -94,7 +94,7 @@ A simple web interface is created using Python (Streamlit/Flask depending on imp
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 House_price_prediction_system/
@@ -111,7 +111,7 @@ House_price_prediction_system/
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone repository
 
@@ -146,7 +146,7 @@ streamlit run linear_regression_app.py
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 numpy
@@ -159,7 +159,7 @@ streamlit
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 
 * Data preprocessing techniques
 * Linear regression implementation
@@ -167,24 +167,16 @@ streamlit
 * Model persistence using pickle
 * Basic web integration for ML models
 
----
 
-## 🚀 Future Improvements
 
-* Improve UI/UX of web app
-* Deploy on cloud (Streamlit Cloud / Render)
-* Hyperparameter tuning
-
----
-
-## 👨‍💻 Author
+## Author
 
 **Aayush**
 Engineering Student | ML & DevOps Enthusiast
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes.
 
