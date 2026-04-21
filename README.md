@@ -173,7 +173,7 @@ streamlit
 
 ## Author
 
-**Aayush**
+**Aayush Gnawali**
 Engineering Student | ML & DevOps Enthusiast
 
 ---
