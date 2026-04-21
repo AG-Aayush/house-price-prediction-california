@@ -1,0 +1,16 @@
+district,latitude,longitude,ocean_proximity
+San Francisco,37.78,-122.42,NEAR BAY
+Oakland,37.80,-122.27,NEAR BAY
+San Jose,37.34,-121.89,<1H OCEAN
+Berkeley,37.87,-122.27,NEAR BAY
+Fremont,37.55,-121.99,<1H OCEAN
+Santa Cruz,36.97,-122.03,NEAR OCEAN
+Monterey,36.60,-121.90,NEAR OCEAN
+Fresno,36.74,-119.77,INLAND
+Sacramento,38.58,-121.49,INLAND
+Bakersfield,35.37,-119.02,INLAND
+Los Angeles,34.05,-118.24,<1H OCEAN
+Long Beach,33.77,-118.19,<1H OCEAN
+San Diego,32.72,-117.15,NEAR OCEAN
+Santa Barbara,34.42,-119.70,NEAR OCEAN
+Napa,38.30,-122.28,<1H OCEAN
