@@ -57,8 +57,11 @@ To build a regression model that can accurately predict median house prices in C
 * Train-test split applied
 * Model evaluation using:
 
-  * RMSE
-  * R² Score
+The model was evaluated using:
+- R² Score
+- Root Mean Squared Error (RMSE)
+
+These metrics help measure prediction accuracy and error distribution.
 
 ### 4. Model Saving
 
@@ -73,7 +76,7 @@ To build a regression model that can accurately predict median house prices in C
 
 ##  Results
 
-* The model provides reasonable predictions based on linear relationships in the dataset.
+* The model achieves good predictive performance using Linear Regression and demonstrates the relationship between socio-economic features and house prices in California.
 * Visualization plots included for analysis:
 
   * Outlier detection plots
